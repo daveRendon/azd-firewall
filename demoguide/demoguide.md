@@ -83,7 +83,7 @@ Resource Group and all deployed resources with name and brief functionality with
 
 <add a screenshot of the deployed Resource Group with resources>
 
-<img src="https://raw.githubusercontent.com/daverendon/azd-tdd-starter/refs/heads/main/demoguide/azd-fw-rg.png" alt="Resource Group" style="width:70%;">
+<img src="https://raw.githubusercontent.com/daveRendon/azd-firewall/refs/heads/main/demoguide/azd-fw-rg.png" alt="Resource Group" style="width:70%;">
 <br></br>
 
 <br></br>
@@ -100,7 +100,7 @@ This scenario creates the following infrastructure components:
  - Firewall Application rules that only allow outbound traffic to www.bing.com.
  - Firewall Network rules that allow external DNS server lookups.
 
-![Azure Firewall Architecture](az-fw.png)
+![Azure Firewall Architecture](https://raw.githubusercontent.com/daveRendon/azd-firewall/refs/heads/main/az-fw.png)
 
 [comment]: <> (this is the closing section of the demo steps. Please do not change anything here to keep the layout consistant with the other demoguides.)
 <br></br>
