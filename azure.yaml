@@ -4,9 +4,9 @@ name: tdd-azd-firewall
 metadata:
   template: tdd-azd-firewall@1.0.0
 infra:
-   provider: "bicep"
+  provider: bicep
 services:
-  web:
-    project: ./
-    language: py
-    host: appservice
+  web:
+    project: ./
+    language: py
+    host: appservice
